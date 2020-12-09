@@ -1,0 +1,584 @@
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "gRPC",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Golang",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Confluence",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "LaunchDarkly",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Terraform",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "Stackdriver",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Salesforce",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 3,
+    "Label": "1Password",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "GCP BigTable",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 3,
+    "Label": "AWS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Dead Man's Snitch",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "FullStory",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Slack",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Flow",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "NodeJS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "GCS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "Apollo GraphQL",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "ngrok",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Enzyme",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "React Testing Lib",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "NGINX Ingress",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Rollup",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Yarn",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "GCP PubSub",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 3,
+    "Label": "Keybase",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 3,
+    "Label": "Nameko",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "GCP Cloud Filestore",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Jira",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Security / Identity",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Twistlock",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Helm",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "SOPS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 3,
+    "Label": "Pipenv",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Kubernetes",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "CodeCov",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "ESLint",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Jest",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "MongoDB (Atlas)",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Sentry",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 3,
+    "Label": "Python 3",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 3,
+    "Label": "AWS EKS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Packer",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "React Redux",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "TypeScript",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Github",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "PagerDuty",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Docker",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "CircleCI",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Storybook",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Okta",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "NPM",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "Kafka",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "MySQL",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "PostgreSQL",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Pendo",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Sendgrid",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Auth0",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Webpack",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "AWS S3",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "Grafana",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 0,
+    "Label": "Prometheus",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "RabbitMQ",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "GKS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Material-UI",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Shell (*sh)",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "GCP",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "GSuite",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 0,
+    "Label": "Zoom",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Prettier",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 0,
+    "Ring": 0,
+    "Label": "Cert Manager",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 1,
+    "Ring": 3,
+    "Label": "AWS EFS",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 2,
+    "Ring": 3,
+    "Label": "Rookout",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},
+{
+    "Quadrant": 3,
+    "Ring": 0,
+    "Label": "Cypress",
+    "Active": true,
+    "Link": ".",
+    "Moved": 0
+},

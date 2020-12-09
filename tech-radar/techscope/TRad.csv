@@ -1,0 +1,74 @@
+Tech Subject,Base Category,Ring Order,State
+Nameko,Code,Hold,Tired
+Cert Manager,Code,Adopt,
+Material-UI,Code,Adopt,
+NGINX Ingress,Code,Adopt,
+NPM,Code,Adopt,
+Packer,Code,Adopt,
+Pipenv,Code,Hold,Tired
+React Redux,Code,Adopt,
+Webpack,Code,Adopt,
+Rollup,Code,Adopt,
+Yarn,Code,Adopt,
+gRPC,Code,Adopt,
+Golang,Code,Adopt,
+NodeJS,Code,Adopt,
+Python 3,Code,Hold,Tired
+Shell (*sh),Code,Adopt,
+Terraform,Code,Adopt,
+TypeScript,Code,Adopt,
+GCP BigTable,Data,Hold,?
+GCP PubSub,Data,Hold,?
+AWS EFS,Data,Hold,Tired
+AWS S3,Data,Hold,Tired
+Kafka,Data,Hold,Wired
+GCP Cloud Filestore,Data,Adopt,
+GCS,Data,Adopt,
+Grafana,Data,Adopt,
+MongoDB (Atlas),Data,Hold,Tired
+MySQL,Data,Adopt,
+PostgreSQL,Data,Adopt,
+Prometheus,Data,Adopt,
+RabbitMQ,Data,Hold,Tired
+Stackdriver,Data,Adopt,
+Apollo GraphQL,Data,Adopt,
+Docker,Platform,Adopt,
+Kubernetes,Platform,Adopt,
+AWS,Platform,Hold,Tired
+AWS EKS,Platform,Hold,Tired
+Rookout,Platform,Hold,Tired
+CircleCI,Platform,Adopt,
+CodeCov,Platform,Adopt,
+Confluence,Platform,Adopt,
+Dead Man's Snitch,Platform,Adopt,
+FullStory,Platform,Adopt,
+GCP,Platform,Adopt,
+GKS,Platform,Adopt,
+GSuite,Platform,Adopt,
+Github,Platform,Adopt,
+Jira,Platform,Adopt,
+LaunchDarkly,Platform,Adopt,
+PagerDuty,Platform,Adopt,
+Pendo,Platform,Adopt,
+Salesforce,Platform,Adopt,
+Sendgrid,Platform,Adopt,
+Slack,Platform,Adopt,
+Zoom,Platform,Adopt,
+ngrok,Platform,Adopt,
+Flow,Tool,Adopt,?
+Keybase,Tool,Hold,Tired
+1Password,Tool,Hold,Wired
+Auth0,Tool,Adopt,
+ESLint,Tool,Adopt,
+Helm,Tool,Adopt,
+Jest,Tool,Adopt,
+Enzyme,Tool,Adopt,
+React Testing Lib,Tool,Adopt,
+Okta,Tool,Adopt,
+Prettier,Tool,Adopt,
+SOPS,Tool,Adopt,
+Security / Identity,Tool,Adopt,
+Sentry,Tool,Adopt,
+Twistlock,Tool,Adopt,
+Cypress,Tool,Adopt,
+Storybook,Tool,Adopt,
