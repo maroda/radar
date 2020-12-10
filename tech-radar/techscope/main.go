@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"html/template"
 	"io"
 	"io/ioutil"
 	"os"
@@ -13,7 +14,7 @@ import (
 	"github.com/rs/zerolog/log"
 )
 
-// TechList ::: Tech Radar Incoming JSON Fields
+// TechList ::: Tech Radar Incoming JSON Fields (from GSheet)
 // What may be the incoming data post?
 type TechList struct {
 	Subject  string
@@ -120,7 +121,13 @@ func readCSV(f string) map[int][]byte {
 			return entryMap
 		}
 
+		// formatEnt returns a struct of type RadRing
 		newRow := formatEnt(row)
+
+		// TEST write struct to html
+		// printHTML(newRow)
+
+		// marshal struct to json
 		newEnt, err := json.MarshalIndent(newRow, "", "    ")
 		if err != nil {
 			log.Error()
@@ -131,6 +138,13 @@ func readCSV(f string) map[int][]byte {
 		entryMap[i] = newEnt
 	}
 	return entryMap
+}
+
+func printHTML(entry RadRing) {
+	techradar := template.Must(template.New("techradar").ParseFiles("pub/index.html"))
+	if terr := techradar.Execute(os.Stdout, entry); terr != nil {
+		log.Fatal().Msg("Cannot render HTML")
+	}
 }
 
 // readJSON ::: Future usage for in-line automation.
