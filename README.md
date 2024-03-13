@@ -8,10 +8,12 @@ This is my personal radar, which I have used as a framework for developing them 
 
 Since this is being hosted by Github Pages, it uses the optional `/docs/` directory to store the content.
 
-The root directory (with this README) can use `yarn` for local development:
+## Local Dev
+
+The root directory (with this README) can use `yarn` to serve the page for local development (it is configured to serve `/docs/`):
 
 1. `brew install node yarn`
 2. `yarn`
 3. `yarn start`
 
-The Tech Radar will be available at <http://localhost:3000>.
+The Radar will be available at <http://localhost:3000>.
