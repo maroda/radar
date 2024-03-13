@@ -2,16 +2,16 @@
 
 Based on the [Zalando Tech-Radar](https://github.com/zalando/tech-radar).
 
-Available here: <http://techradar>, contact me for the passphrase.
+Available at <http://maroda.github.io/radar>.
 
-This repo has Pages enabled, SSL is required. It is only accessible via passphrase, there is no username, and the URL hash expires after one second.
+This is my personal radar, which I have used as a framework for developing them elsewhere.
 
-## How It Works
+Since this is being hosted by Github Pages, it uses the optional `/docs/` directory to store the content.
 
-The included JavaScript prompts for a password. The password is hashed and matched against a directory listing. If the listing returns HTTP code 200, the user is allowed access. If no directory with that hash exists, no 200 code is served, and the user is redirected to root (`/`).
+The root directory (with this README) can use `yarn` for local development:
 
-If a second passes between the time the passphrase is entered and the same URL is used again (i.e. a browser refresh, giving it to someone else), the path is rendered invalid and the user must return to the login page and enter the passphrase again. This is done by setting a variable at the login page and reading it from the protected page.
+1. `brew install node yarn`
+2. `yarn`
+3. `yarn start`
 
-## Acknowledgements
-
-* https://github.com/chrissy-dev/protected-github-pages
+The Tech Radar will be available at <http://localhost:3000>.
