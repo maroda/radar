@@ -1,2 +1,4 @@
-# blameless
-Work related stuff.
+# Radar
+
+My own version of the Zolando Tech-Radar.
+
