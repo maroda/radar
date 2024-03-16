@@ -10,6 +10,7 @@
     "doc": "docs"
   },
   "devDependencies": {
+    "follow-redirects": "^1.15.6",
     "browser-sync": "^3.0.2",
     "eslint": "^8.52.0",
     "eslint-plugin-html": "^7.1.0",
